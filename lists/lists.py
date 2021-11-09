@@ -17,3 +17,9 @@ spam = ['test','hi','hello','test2']
 # spam.remove('hello') to remove an index from list
 
 # important note : methods can only be called on lists and not strings and integers
+
+# spam = [7, 49 , 27, 22, 4, 1,3]
+
+# spam.sort()
+# # sorts lists in numerical order
+# print(spam)
