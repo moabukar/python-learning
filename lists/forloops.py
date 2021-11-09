@@ -45,4 +45,4 @@ for i in range(len(supplies2)):
 
 # spam = 50
 # spam = spam + 1
-# spam += 1 (same thing as previous line)
+# spam += 1 (same thing as previous line) aka Augmented assignment statement
