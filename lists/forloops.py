@@ -42,3 +42,7 @@ for i in range(len(supplies2)):
 # a,b = b,a
 
 # print(a,b)
+
+# spam = 50
+# spam = spam + 1
+# spam += 1 (same thing as previous line)
