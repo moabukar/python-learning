@@ -22,4 +22,5 @@ spam = ['test','hi','hello','test2']
 
 # spam.sort()
 # # sorts lists in numerical order
+# is spam.sort() is used with words, it sorts in alphabetical order
 # print(spam)
