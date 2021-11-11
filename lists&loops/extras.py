@@ -16,4 +16,5 @@ import copy
 
 cheese = copy.deepcopy(spam)
 eggs(cheese)
+cheese[0] = 0
 print(cheese)
